@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -72,14 +72,25 @@
   <h1>TU BSC NOTES</h1>
   <div class="note-list">
     <div class="note">
-      <h3>Math - Integration Notes</h3>
+      <h3>Chemistry</h3>
       <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank" class="button-link">View PDF</a>
     </div>
     <div class="note">
-      <h3>Physics - Kinematics</h3>
+      <h3>Zoology</h3>
       <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank" class="button-link">View PDF</a>
     </div>
-    <!-- Add more notes below -->
+    <div class="note">
+      <h3>Physics</h3>
+      <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank" class="button-link">View PDF</a>
+    </div>
+    <div class="note">
+      <h3>Microbiology</h3>
+      <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank" class="button-link">View PDF</a>
+    </div>
+    <div class="note">
+      <h3>Statistics</h3>
+      <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank" class="button-link">View PDF</a>
+    </div>
   </div>
 </body>
 </html>
